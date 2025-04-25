@@ -14,7 +14,7 @@ export default function ApiKeyInput({ onSubmit }: ApiKeyInputProps) {
   // Replace the empty string with your actual Gemini API key
   // Example: const GEMINI_API_KEY = "AIza...your-key-here"
   // ===================================================================
-  const GEMINI_API_KEY = "AIzaSyALwF4s9dzWGUWwb9empQCBqX0qBkKaL9s"
+  const GEMINI_API_KEY = ""
   // ===================================================================
 
   useEffect(() => {
